@@ -1,10 +1,7 @@
 # Python DSA Daily Master
+**[Launch Live App](https://regancodex.github.io/python-dsa-master/)**
 
 An interactive, mobile-optimized roadmap and practice dashboard designed to master Data Structures and Algorithms in Python.
-
-🔗 **[Launch Live App](https://regancodex.github.io/python-dsa-master/)**
-
----
 
 ## 🚀 Features
 - **Interactive Visualizers:** Real-time visual tracking for Hash Maps, Two Pointers, Sliding Windows, Stacks, and Trees.
