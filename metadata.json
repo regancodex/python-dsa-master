@@ -1,0 +1,6 @@
+{
+  "name": "Python DSA Daily Master",
+  "description": "Mobile-optimized Python Data Structures & Algorithms daily mastery platform featuring interactive problem solver, step-by-step visualizers, pattern cheatsheets, flashcards, and AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
