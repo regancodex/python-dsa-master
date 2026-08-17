@@ -1,4 +1,4 @@
-# Python DSA Daily Master
+# Python DSA Daily Master v0.4.2
 
 An interactive, mobile-optimized roadmap and practice dashboard designed to master Data Structures and Algorithms in Python.
 
