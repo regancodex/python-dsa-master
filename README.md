@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Python DSA Daily Master
 
-# Run and deploy your AI Studio app
+An interactive, mobile-optimized roadmap and practice dashboard designed to master Data Structures and Algorithms in Python.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
+- **Interactive Visualizers:** Real-time visual tracking for Hash Maps, Two Pointers, Sliding Windows, Stacks, and Trees.
+- **In-Browser Execution:** Client-side Python practice engine powered by Pyodide with live test runner feedback.
+- **Dual-Track Curriculum:** Features a high-yield Core 30 sprint alongside the comprehensive Blind 75 canonical FAANG problem set.
+- **Offline Support:** Progressive Web App (PWA) capabilities with offline caching, local data persistence, and statistics analytics.
 
-View your app in AI Studio: https://ai.studio/apps/bd68540d-6c1a-4129-ae6c-e7cee65d47e2
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Build Tool:** Vite
+- **Automation:** GitHub Actions for automated deployment to GitHub Pages
 
-## Run Locally
+## 🖥️ Local Development
 
-**Prerequisites:**  Node.js
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org) installed.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Setup Steps
+1. Clone the repository.
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the local development server:
+   ```bash
+   npm run dev
+   ```
