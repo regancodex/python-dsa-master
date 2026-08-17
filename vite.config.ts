@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    base: '/python-dsa-master/', // Add this exact line
+    base: '/python-dsa-master/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
