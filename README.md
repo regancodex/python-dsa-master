@@ -2,7 +2,6 @@
 
 An interactive, mobile-optimized roadmap and practice dashboard designed to master Data Structures and Algorithms in Python.
 
-### 🌐 Live Demo
 🔗 **[Launch Live App](https://regancodex.github.io/python-dsa-master/)**
 
 ---
